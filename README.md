@@ -15,6 +15,22 @@ Delete everything after cursor: Ctrl + K
 ### Auto-complete
 Auto complete word/sentence: Tab 
 
+Change directory to a folder: cd + Drag and drop folder to terminal 
+
+### Previous Commands
+
+View previous commands by lines: Up/Down Arrows 
+
+Run previous commands that starts with fi: !fi
+
+View all previous commands: history
+
+Reverse search: Command + R
+
+### Clear Screens 
+Clear Screen: Ctrl + l 
+
+Clear Scree including scroll back: Command + k
 
 
 
